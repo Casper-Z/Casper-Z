@@ -1,0 +1,10 @@
+.idea/
+*.pyc
+*.pyo
+*.xml
+*.log
+.venv/
+*/__pycache__
+.venv/*
+*.pth
+logs/*
