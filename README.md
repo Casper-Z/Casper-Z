@@ -7,9 +7,9 @@ My main programming languages are:
 My second programming languages are:
 
   - Bash
-  - JS
-  - C++20
   - Rust
+  - C++
+  - JS
   
   - [FaceRecognition](https://github.com/Casper-Z/projects/tree/remain-2022-FaceRecognition) 
   
