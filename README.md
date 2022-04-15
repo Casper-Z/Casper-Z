@@ -10,9 +10,7 @@ My second programming languages are:
   - Rust
   - C++
   - JS
-  
-  - [FaceRecognition](https://github.com/Casper-Z/projects/tree/remain-2022-FaceRecognition) 
-  
+
 [![Ido's github stats](https://github-readme-stats.vercel.app/api?username=Casper-Z)](https://github.com/anuraghazra/github-readme-stats)
 
 #### ps. I hope you don't think all Chinese are bad ;(, I also love peace.
